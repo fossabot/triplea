@@ -1,5 +1,6 @@
 [![Travis](https://img.shields.io/travis/triplea-game/triplea.svg?style=flat-square)](https://travis-ci.org/triplea-game/triplea)
 [![TripleA license](https://img.shields.io/github/license/triplea-game/triplea.svg?style=flat-square)](https://github.com/triplea-game/triplea/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRoiEXLab%2Ftriplea.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRoiEXLab%2Ftriplea?ref=badge_shield)
 
 TripleA is a free game engine that runs on open source and is community supported.
 
@@ -40,3 +41,7 @@ Development
 - Project documentation, including 'how to get started guides' at: https://github.com/triplea-game/triplea/tree/master/docs/dev
 - Broken map list: https://github.com/triplea-game/triplea/wiki/Broken-Maps
 - Additional feature request list: https://github.com/triplea-game/triplea/issues?q=label%3A%22ice+box+-+revisit+later%22+is%3Aclosed (list is not to be added to, if picked up, re-open and remove the ice-box label)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRoiEXLab%2Ftriplea.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRoiEXLab%2Ftriplea?ref=badge_large)
